@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/IntBoat/mf-u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/rank.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
 [![reward](https://make.fun/badge/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/IntBoat/mf-u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/reward.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
 
-One line of patch notes announcing that human sleep has been fixed, written to /output/entry.txt by a small Python program. Entered in make.fun's Fix Human Sleep: Funniest Patch Note bounty.
+One line of patch notes announcing that human sleep has been fixed — no more 3am replays of embarrassing moments. A small Python program writes the line to `/output/entry.txt`. This repository is an entry in make.fun's Fix Human Sleep: Funniest Patch Note bounty.
 
 ## Entry
 
@@ -15,6 +15,8 @@ One line of patch notes announcing that human sleep has been fixed, written to /
 ```sh
 python3 main.py
 ```
+
+The program creates `/output/entry.txt` containing exactly the line above.
 
 ---
 
